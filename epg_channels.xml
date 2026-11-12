@@ -1,3 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
+  <channel xmltv_id="Badakhshon.tj@SD">Badakhshon</channel>
+  <channel xmltv_id="DushanbeHD.tj@SD">Dushanbe HD</channel>
+  <channel xmltv_id="Futbol.tj@SD">Futbol</channel>
+  <channel xmltv_id="IlmvaTabiat.tj@SD">Ilm va Tabiat</channel>
+  <channel xmltv_id="Jahonnamo.tj@SD">Jahonnamo</channel>
+  <channel xmltv_id="Khatlon.tj@SD">Khatlon</channel>
+  <channel xmltv_id="TMT.tj@SD">TMT</channel>
+  <channel xmltv_id="Tojikiston.tj@SD">Tojikiston</channel>
+  <channel xmltv_id="TVBahoriston.tj@SD">TV Bahoriston</channel>
+  <channel xmltv_id="TVKulob.tj@SD">TV Kulob</channel>
+  <channel xmltv_id="TVSafina.tj@SD">TV Safina</channel>
+  <channel xmltv_id="TVSayohi.tj@SD">TV Sayohi</channel>
+  <channel xmltv_id="TVSinamo.tj@SD">TV Sinamo</channel>
+  <channel xmltv_id="TVSugd.tj@SD">TV Sugd</channel>
+  <channel xmltv_id="1HDMusicTelevision.ru@HD">1HD Music Television</channel>
+  <channel xmltv_id="2x2.ru@SD">2x2</channel>
 </channels>
