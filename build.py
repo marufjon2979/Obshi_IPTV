@@ -43,8 +43,7 @@ for country in COUNTRIES:
         print(country, e)
 
 header = [
-    "#EXTM3U",
-    '#EXTM3U x-tvg-url="https://marufjon2979.github.io/Obshi_IPTV/epg.xml"'
+    '#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml" x-tvg-url="https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml"'
 ]
 
 Path("playlist.m3u").write_text(
