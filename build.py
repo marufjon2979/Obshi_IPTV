@@ -4,7 +4,9 @@ from pathlib import Path
 COUNTRIES = ["tj", "ru", "uz", "tr", "ir", "af"]
 BASE = "https://iptv-org.github.io/iptv/countries/"
 
-all_channels = ["#EXTM3U"]
+all_channels = [
+    '#EXTM3U url-tvg="https://epg.one/ru2.xml.gz"'
+]
 seen = set()
 
 Path("playlists").mkdir(exist_ok=True)
